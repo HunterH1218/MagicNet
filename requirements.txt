@@ -1,0 +1,6 @@
+transformers = "^4.40.1"
+numpy = "^1.26.4"
+tensorflow = "^2.16.1"
+tensorflow-datasets = "^4.9.4"
+scikit-learn = "^1.4.2"
+nltk = "^3.8.1"
